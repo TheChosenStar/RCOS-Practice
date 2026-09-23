@@ -1,4 +1,4 @@
 Nathaniel (Nat) Walter Davis<br/>
-*insert image*
+[logo]: https://github.com/TheChosenStar/RCOS-Practice/blob/main/TheKirbyMain.jpg "I play Smash Bros."
 Class of 2028<br/>
 OpenPath RPI - Testing and Accessibility<br/>
